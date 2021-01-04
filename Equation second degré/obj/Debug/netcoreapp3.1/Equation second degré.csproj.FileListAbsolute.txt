@@ -1,0 +1,13 @@
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\bin\Debug\netcoreapp3.1\Equation second degré.exe
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\bin\Debug\netcoreapp3.1\Equation second degré.deps.json
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\bin\Debug\netcoreapp3.1\Equation second degré.runtimeconfig.json
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\bin\Debug\netcoreapp3.1\Equation second degré.runtimeconfig.dev.json
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\bin\Debug\netcoreapp3.1\Equation second degré.dll
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\bin\Debug\netcoreapp3.1\Equation second degré.pdb
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.csprojAssemblyReference.cache
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.AssemblyInfoInputs.cache
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.AssemblyInfo.cs
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.dll
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.pdb
+C:\Users\IDEAPAD\Desktop\Exo C#\Equation second degré\obj\Debug\netcoreapp3.1\Equation second degré.genruntimeconfig.cache
